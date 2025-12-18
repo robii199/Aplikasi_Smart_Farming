@@ -1,7 +1,5 @@
-# tugaskelompok
-
-A new Flutter project.
-
+# Nama : Muhammad Alfarobi
+Project UAS Praktikum Sistem Bergerak
 ## Getting Started
 
 This project is a starting point for a Flutter application.
